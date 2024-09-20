@@ -1,0 +1,10 @@
+.button {
+    padding: 4px 12px;
+    background: black;
+    color: white;
+    font-weight: 700;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
